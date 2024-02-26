@@ -146,3 +146,8 @@ footer ul{
     gap: 10px;
     max-width: 1900px;
 }
+
+footer img{
+    width: 30px;
+    height:auto;
+}
