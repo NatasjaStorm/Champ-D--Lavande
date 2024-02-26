@@ -1,13 +1,13 @@
 @font-face {
     font-family: "Apple Chancery";
-    src: url(/fonts/Apple\ Chancery.ttf);
+    src: url(..fonts/Apple\ Chancery.ttf);
 }
 @font-face {
     font-family: Palatino;
-    src: url(/fonts/Palatino.ttc);
+    src: url(..fonts/Palatino.ttc);
 }
 header{
-    background-image: url(/img/BG.png);
+    background-image: url(..img/BG.png);
     background-size: cover;
     min-height: 1080px;
     display: flex;
